@@ -1,0 +1,1 @@
+This project successfully demonstrates the implementation of FCFS and SJF CPU scheduling algorithms using C++. The simulator provides a clear understanding of process execution order and scheduling efficiency. It is an effective learning tool for students studying Operating Systems.
